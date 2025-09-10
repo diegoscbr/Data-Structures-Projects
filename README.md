@@ -84,13 +84,7 @@ Thank you for exploring the BinTree project!
 
 # Huffman Coding Project
 
-This project aimed to create a Huffman Coding implementation using a priority queue class as an underlying data structure. While a priority queue array was successfully implemented, the project faced challenges related to memory leaks in the Huffman encoding part, which could not be debugged within the given time frame.
-
-## Project Overview
-
-### Priority Queue Implementation
-
-The project begins with the successful implementation of a priority queue using an array as the underlying data structure. This priority queue is essential for the construction of the Huffman Tree.
+This project aimed to create a Huffman Coding implementation using a priority queue class as an underlying data structure.
 
 ### Huffman Tree Construction
 
@@ -102,21 +96,6 @@ The plan for constructing the Huffman Tree is outlined as follows:
 5. Traverse the Huffman Tree, with the root node as the only remaining node in the priority queue, to store the Huffman Codes.
 6. Print all the stored Huffman Codes for every character.
 
-### Challenges Faced
 
-While a priority queue was successfully created, full implementation of the Huffman Tree was not achieved due to issues related to pointers and memory allocation. The project acknowledges that more structured planning and implementation could have resolved these issues.
 
-## Conclusion
-
-The Huffman Coding project provides insights into the challenges and complexities of implementing data compression using Huffman Coding. While the priority queue part of the project was accomplished, further debugging and refinements are needed for the Huffman Tree construction.
-
-Despite the encountered challenges, this project serves as a foundation for understanding the principles of Huffman Coding and its application in data compression. Future work on this project or a similar endeavor could lead to a more successful implementation.
-
-Please feel free to use this project code and documentation in your own work. If you have any questions or require additional information, do not hesitate to contact me.
-
-Thank you for exploring the Huffman Coding project!
-
----
-
-@diegoscbr Diego Escobar
   
